@@ -1,10 +1,6 @@
 @extends('layouts.default')
 @section('content')
 <div class="container-fluid">
-    {{--<strong>Név Megadása Kötelező! / Name Must Be Entered!</strong>--}}
-    {{--<strong>Cég Megadása Kötelező! / Company Must be Entered!</strong>--}}
-    {{--<strong>"Kihez Jött" Kiválasztása Kötelező! / Contact Must Be Selected!</strong>--}}
-
     <div class="row">
         <div class="col-xs-12 col-md-3">
             <div class="form-group">
@@ -31,7 +27,7 @@
         </div>
         <div class="col-xs-12 col-md-6">
             <div class="card">
-                <h5 class="card-header">Bejelentkezés / Log In</h5>
+                <h5 class="card-header text-center">Bejelentkezés / Log In</h5>
                 <div class="card-body">
                     @if ($errors->any())
                         <div class="alert alert-danger">
@@ -54,9 +50,9 @@
                         <div class="input-group mb-3">
                             <input type="text" name="name" value="{{ old('name') }}" class="form-control" placeholder="Név / Name" aria-label="Recipient's username" maxlength="255">
                         </div>
-                        <p class="card-text">Sz.ig. szám* / PID*</p>
+                        <p class="card-text">Látogatói Kártya Száma* / Visitor Card Number*</p>
                         <div class="form-group">
-                            <input type="password" name="pid" value="{{ old('pid') }}" class="form-control" placeholder="Sz.ig. szám / Personal ID" aria-label="Recipient's PID" maxlength="255">
+                            <input type="password" name="pid" value="{{ old('pid') }}" class="form-control" placeholder="Látogatói Kártya Száma* / Visitor Card Number" aria-label="Recipient's PID" maxlength="255">
                         </div>
                         <p class="card-text">Cég / Company</p>
                         <div class="input-group mb-3">
@@ -89,24 +85,27 @@
         </div>
     </div>
 
-    <div class="modal" tabindex="-1" role="dialog" id="exampleModal">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title">Modal title</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <p>Modal body text goes here.</p>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Save changes</button>
-                </div>
-            </div>
-        </div>
+
+
+    <div class="modal fade bd-example-modal-lg" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalCenterTitle">Szervezeti Ábra / Organization Chart</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <img src="{{ asset('images/orig_675454.jpg') }}" id="imagepreview" style="width: 770px; height: 550px;" >
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
     </div>
+  </div>
+</div>
+
+
 </div>
 @endsection

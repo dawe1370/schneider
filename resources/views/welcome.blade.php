@@ -9,18 +9,22 @@
 </head>
 <body>
 
+
 @include ('partials.navbar')
 
 @if (session('success'))
-    <div class="alert alert-success">
+    <div class="alert alert-success text-center" id="success-alert">
         {{ session('success') }}
     </div>
 @endif
 @if (session('error'))
-    <div class="alert alert-danger">
+    <div class="alert alert-danger text-center" id="danger-alert">
         {{ session('error') }}
     </div>
 @endif
+
+
+
 
 <div id="first" class="card text-center">
     <div class="card-header">
@@ -41,5 +45,12 @@
 </div>
 
 <script src="{{ asset('js/app.js') }}"></script>
+
+<script>
+    $("#danger-alert").fadeTo(2000, 500).slideUp(500, function(){
+    $("#danger-alert").slideUp(500);});
+    $("#success-alert").fadeTo(2000, 500).slideUp(500, function(){
+    $("#success-alert").slideUp(500);});
+</script>
 </body>
 </html>

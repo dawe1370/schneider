@@ -8,7 +8,7 @@
                     {{ csrf_field() }}
                     <input type="hidden" name="action" value="checkout" />
                     <div class="form-group">
-                        <input type="password" name="pid" value="{{ old('pid') }}" class="form-control" placeholder="Sz.ig. szám / Personal ID" aria-label="Recipient's PID" maxlength="255">
+                        <input type="password" name="pid" value="{{ old('pid') }}" class="form-control" placeholder="Látogatói Kártya Száma* / Visitor Card Number" aria-label="Recipient's PID" maxlength="255">
                     </div>
                     <input type="submit" class="btn btn-danger" value="Kijelentkezés / Log Out" />
                 </form>
@@ -17,5 +17,5 @@
 
     </div>
 
-    <a href="index.html" class="btn btn-secondary" id="back">Vissza / Back</a>
+    <a href="{{ route('home') }}" class="btn btn-secondary" id="back">Vissza / Back</a>
 @endsection
