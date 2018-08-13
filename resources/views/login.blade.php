@@ -72,8 +72,8 @@
                         </div>
                         <div class="form-group">
                             <button type="submit" class="btn btn-block btn-success">
-                                Elolvastam és tudomásul veszem az előírásokat / <br>
-                                Confirm having read the safety instructions
+                                <span id="accept-btn">Elolvastam és tudomásul veszem az előírásokat /<br>
+                                Confirm having read the safety instructions</span>
                             </button>
                         </div>
                     </form>
@@ -97,7 +97,10 @@
         </button>
       </div>
       <div class="modal-body">
-        <img src="{{ asset('images/orig_675454.jpg') }}" id="imagepreview" style="width: 770px; height: 550px;" >
+        <div class="containe">
+            <img src="{{ asset('images/orig_675454.jpg') }}" id="imagepreview" style="width: 770px; height: 550px;" >
+        </div>
+        
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

@@ -10,12 +10,23 @@
                     <div class="form-group">
                         <input type="password" name="pid" value="{{ old('pid') }}" class="form-control" placeholder="Látogatói Kártya Száma* / Visitor Card Number" aria-label="Recipient's PID" maxlength="255">
                     </div>
-                    <input type="submit" class="btn btn-danger" value="Kijelentkezés / Log Out" />
+
+                    <div class="form-row text-center">
+                    <div class="col-12">
+                        <input type="submit" class="btn btn-danger" value="Kijelentkezés / Log Out" />
+                    </div>
+                    
                 </form>
             </div>
         </div>
 
     </div>
 
-    <a href="{{ route('home') }}" class="btn btn-secondary" id="back">Vissza / Back</a>
+
+    <div class="form-row text-center">
+    <div class="col-12">
+        <a href="{{ route('home') }}" class="btn btn-secondary text-center" id="back">Vissza / Back</a>
+    </div>
+ </div>
+    
 @endsection

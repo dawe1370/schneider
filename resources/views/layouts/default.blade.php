@@ -7,19 +7,23 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>Schneider Electric</title>
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 </head>
 <body>
 @include('partials.navbar')
 
 @yield('content')
 
-<footer class="footer text-center">
-    <div class="container">
-        <span class="text-muted">
-            Schneider Electric Hungaria ZRT.
-        </span>
+<div class="footer">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12 ">
+          <!--Footer Bottom-->
+          <p class="text-center">&copy; Schneider Electric </p>
+        </div>
+      </div>
     </div>
-</footer>
+  </div>
 
 <script src="{{ asset('js/app.js') }}"></script>
 </body>

@@ -22,7 +22,7 @@
         <h6 class="card-title">Please read the "Safety & Environment instructions" and please register in!!</h6>
         <br>
         <a href="{{ route('informations') }}" class="btn btn-success">Bejelentkezés / Log in</a>
-        <a href="{{ route('logout') }}" class="btn btn-danger">Kijelentkezés / Log Out</a>
+        <a href="{{ route('logout') }}" class="btn btn-danger" id="main-btn">Kijelentkezés / Log Out</a>
     </div>
 </div>
 

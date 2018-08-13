@@ -207,3 +207,28 @@ body {
     color: #f2f2f2;
     background-color: #007037;
   }
+
+  .footer {
+    margin-top: 1rem;
+  }
+
+  .imagepreview {
+    display: block;
+    width: auto;
+    max-height: 100%
+  }
+
+  @media (max-width: 600px) {
+    #main-btn {
+        margin-top: 0.4rem;
+    }
+
+    #accept-btn
+    {
+      font-size: 14px;
+    }
+    #back
+    {
+      width: 90%;
+    }
+}
