@@ -1,17 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Check In</title>
-    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-</head>
-<body>
-
-
-@include ('partials.navbar')
-
+@extends('layouts.default')
+@section('content')
 @if (session('success'))
     <div class="alert alert-success text-center" id="success-alert">
         {{ session('success') }}
@@ -22,9 +10,6 @@
         {{ session('error') }}
     </div>
 @endif
-
-
-
 
 <div id="first" class="card text-center">
     <div class="card-header">
@@ -39,9 +24,6 @@
         <a href="{{ route('informations') }}" class="btn btn-success">Bejelentkezés / Log in</a>
         <a href="{{ route('logout') }}" class="btn btn-danger">Kijelentkezés / Log Out</a>
     </div>
-    <div class="card-footer text-muted">
-        Schneider Electric Hungaria ZRT.
-    </div>
 </div>
 
 <script src="{{ asset('js/app.js') }}"></script>
@@ -52,5 +34,4 @@
     $("#success-alert").fadeTo(2000, 500).slideUp(500, function(){
     $("#success-alert").slideUp(500);});
 </script>
-</body>
-</html>
+@endsection
