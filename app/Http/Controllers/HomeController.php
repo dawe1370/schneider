@@ -29,7 +29,7 @@ class HomeController extends Controller
      */
     public function login()
     {
-        $users = User::all();
+        $users = User::orderBy('name', 'asc')->get();
 
         return view('login', compact('users'));
     }
