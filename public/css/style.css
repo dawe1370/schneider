@@ -82,7 +82,15 @@ body {
 
 
 #first {
+  margin-top: 10rem !important;
+}
+
+#login {
   margin-top: 5rem !important;
+}
+
+#logout{
+  margin-top: 10rem !important;
 }
 
 #next {

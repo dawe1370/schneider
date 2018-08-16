@@ -1,6 +1,6 @@
 @extends('layouts.default')
 @section('content')
-<div class="container-fluid">
+<div class="container-fluid" id="login">
     <div class="row">
         <div class="col-xs-12 col-md-3">
             <div class="form-group">

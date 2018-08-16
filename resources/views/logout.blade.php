@@ -1,6 +1,6 @@
 @extends('layouts.default')
 @section('content')
-    <div class="container">
+    <div class="container" id="logout">
         <div class="card text-center">
             <h5 class="card-header">Kijelentkezés / Log Out</h5>
             <div class="card-body">
