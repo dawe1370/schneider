@@ -4,8 +4,9 @@ namespace App\Exports;
 
 use Maatwebsite\Excel\Concerns\FromCollection;
 use Maatwebsite\Excel\Concerns\WithHeadings;
+use Maatwebsite\Excel\Concerns\ShouldAutoSize;
 
-class ExportLoggedIn implements FromCollection, WithHeadings
+class ExportLoggedIn implements FromCollection, WithHeadings, ShouldAutoSize
 {
     /**
     * @return \Illuminate\Support\Collection
@@ -30,7 +31,6 @@ class ExportLoggedIn implements FromCollection, WithHeadings
 
         return $guests;
     }
-
 
     /**
      * @return array
