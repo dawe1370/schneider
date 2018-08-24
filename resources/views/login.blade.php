@@ -131,76 +131,76 @@
       </div>
       <div class="modal-body">
         <div class="containe">
-        <p><strong>Adatkezel&eacute;si t&aacute;j&eacute;koztat&oacute;</strong></p>
-<p>&nbsp;</p>
-<p>A jelen dokumentum c&eacute;lja, hogy r&ouml;gz&iacute;tse a SCHNEIDER ELECTRIC HUNG&Aacute;RIA Villamoss&aacute;gi Zrt. (a tov&aacute;bbiakban: &ldquo;<strong>Adatkezelő</strong>&rdquo;) &aacute;ltal alkalmazott adatkezel&eacute;si &eacute;s adatv&eacute;delmi elveket, amelyeket az Adatkezelő mag&aacute;ra n&eacute;zve k&ouml;telező erővel ismer el.</p>
-<p>Az Adatkezel&eacute;si T&aacute;j&eacute;koztat&oacute; (a tov&aacute;bbiakban: &bdquo;<strong>T&aacute;j&eacute;koztat&oacute;</strong>&rdquo;) rendelkez&eacute;seinek kialak&iacute;t&aacute;sakor az Adatkezelő k&uuml;l&ouml;n&ouml;s tekintettel vette figyelembe az Eur&oacute;pai Parlament &eacute;s a Tan&aacute;cs 2016/679 Rendelet&eacute;ben (&bdquo;&Aacute;ltal&aacute;nos Adatv&eacute;delmi Rendelet&rdquo; vagy &bdquo;GDPR&rdquo;), az inform&aacute;ci&oacute;s &ouml;nrendelkez&eacute;si jogr&oacute;l &eacute;s az inform&aacute;ci&oacute;szabads&aacute;gr&oacute;l sz&oacute;l&oacute; 2011. &eacute;vi CXII. t&ouml;rv&eacute;ny (&bdquo;Infotv.&rdquo;) &eacute;s a szem&eacute;ly- &eacute;s vagyonv&eacute;delmi, valamint a mag&aacute;nnyomoz&oacute;i tev&eacute;kenys&eacute;g szab&aacute;lyair&oacute;l sz&oacute;l&oacute; 2005. &eacute;vi CXXXIII. t&ouml;rv&eacute;ny rendelkez&eacute;seit.</p>
-<p>Jelen adatkezel&eacute;si t&aacute;j&eacute;koztat&oacute; hat&aacute;lya az Adatkezelő &aacute;ltal &uuml;zemeltetett al&aacute;bbi c&iacute;meken l&eacute;vő gy&aacute;rakba (a tov&aacute;bbiakban: &bdquo;<strong>L&eacute;tes&iacute;tm&eacute;ny</strong>&rdquo;) t&ouml;rt&eacute;nő a Vend&eacute;gek bel&eacute;ptet&eacute;s&eacute;hez kapcsol&oacute;d&oacute; adatkezel&eacute;sekre terjed ki:</p>
+        <p><strong>Adatkezelési tájékoztató</strong></p>
+<p> </p>
+<p>A jelen dokumentum célja, hogy rögzítse a SCHNEIDER ELECTRIC HUNGÁRIA Villamossági Zrt. (a továbbiakban: “<strong>Adatkezelő</strong>”) által alkalmazott adatkezelési és adatvédelmi elveket, amelyeket az Adatkezelő magára nézve kötelező erővel ismer el.</p>
+<p>Az Adatkezelési Tájékoztató (a továbbiakban: „<strong>Tájékoztató</strong>”) rendelkezéseinek kialakításakor az Adatkezelő különös tekintettel vette figyelembe az Európai Parlament és a Tanács 2016/679 Rendeletében („Általános Adatvédelmi Rendelet” vagy „GDPR”), az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény („Infotv.”) és a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény rendelkezéseit.</p>
+<p>Jelen adatkezelési tájékoztató hatálya az Adatkezelő által üzemeltetett alábbi címeken lévő gyárakba (a továbbiakban: „<strong>Létesítmény</strong>”) történő a Vendégek beléptetéséhez kapcsolódó adatkezelésekre terjed ki:</p>
 <ul>
-<li>3200 Gy&ouml;ngy&ouml;s Kők&uacute;t &uacute;t 10.</li>
-<li>8900 Zalaegerszeg Hock J&aacute;nos utca 55.</li>
-<li>8900 Zalaegerszeg Egerv&aacute;ri &uacute;t 9.</li>
+<li>3200 Gyöngyös Kőkút út 10.</li>
+<li>8900 Zalaegerszeg Hock János utca 55.</li>
+<li>8900 Zalaegerszeg Egervári út 9.</li>
 </ul>
-<p>&nbsp;</p>
+<p> </p>
 <ol>
-<li><strong><u>Adatkezelő el&eacute;rhetős&eacute;gei</u></strong></li>
+<li><strong><u>Adatkezelő elérhetőségei</u></strong></li>
 </ol>
-<p>Az Adatkezelő neve: SCHNEIDER ELECTRIC HUNG&Aacute;RIA Villamoss&aacute;gi Zrt.</p>
-<p>Az Adatkezelő sz&eacute;khelye (mely egyben levelez&eacute;si c&iacute;me): 1133 Budapest V&aacute;ci &uacute;t 96-98.</p>
-<p>Az Adatkezelő e-mail c&iacute;me: hu-vevoszolgalat@schneider-electric.com</p>
-<p>&nbsp;</p>
+<p>Az Adatkezelő neve: SCHNEIDER ELECTRIC HUNGÁRIA Villamossági Zrt.</p>
+<p>Az Adatkezelő székhelye (mely egyben levelezési címe): 1133 Budapest Váci út 96-98.</p>
+<p>Az Adatkezelő e-mail címe: hu-vevoszolgalat@schneider-electric.com</p>
+<p> </p>
 <ol start="2">
-<li><strong><u>Adatfeldolgoz&oacute;</u></strong></li>
+<li><strong><u>Adatfeldolgozó</u></strong></li>
 </ol>
-<p>Jelen T&aacute;j&eacute;koztat&oacute;ban meghat&aacute;rozott Adatfeldolgoz&oacute;k r&eacute;sz&eacute;re t&ouml;rt&eacute;nő adattov&aacute;bb&iacute;t&aacute;s az &Eacute;rintett k&uuml;l&ouml;n hozz&aacute;j&aacute;rul&aacute;sa n&eacute;lk&uuml;l v&eacute;gezhető.</p>
-<p>Az Adatfeldolgoz&oacute; &ouml;n&aacute;ll&oacute; d&ouml;nt&eacute;st nem hoz, kiz&aacute;r&oacute;lag az Adatkezelővel k&ouml;t&ouml;tt szerződ&eacute;s, &eacute;s a kapott utas&iacute;t&aacute;sok szerint jogosult elj&aacute;rni.</p>
-<p>Az Adatkezelő ellenőrzi az Adatfeldolgoz&oacute; munk&aacute;j&aacute;t.</p>
-<p>Az Adatfeldolgoz&oacute; tov&aacute;bbi adatfeldolgoz&oacute; ig&eacute;nybe v&eacute;tel&eacute;re csak az Adatkezelő hozz&aacute;j&aacute;rul&aacute;s&aacute;val jogosult.</p>
-<p>Az Adatkezelő &aacute;ltal ig&eacute;nybe vett Adatfeldolgoz&oacute;:</p>
-<p>C&eacute;gn&eacute;v: <strong>&Aacute;rgus-Security Kft.</strong></p>
-<p>Sz&eacute;khely: 1024 Budapest L&ouml;vőh&aacute;z u. 9.</p>
-<p>Tev&eacute;kenys&eacute;g: Biztons&aacute;gi szolg&aacute;lat</p>
-<p>&nbsp;</p>
+<p>Jelen Tájékoztatóban meghatározott Adatfeldolgozók részére történő adattovábbítás az Érintett külön hozzájárulása nélkül végezhető.</p>
+<p>Az Adatfeldolgozó önálló döntést nem hoz, kizárólag az Adatkezelővel kötött szerződés, és a kapott utasítások szerint jogosult eljárni.</p>
+<p>Az Adatkezelő ellenőrzi az Adatfeldolgozó munkáját.</p>
+<p>Az Adatfeldolgozó további adatfeldolgozó igénybe vételére csak az Adatkezelő hozzájárulásával jogosult.</p>
+<p>Az Adatkezelő által igénybe vett Adatfeldolgozó:</p>
+<p>Cégnév: <strong>Árgus-Security Kft.</strong></p>
+<p>Székhely: 1024 Budapest Lövőház u. 9.</p>
+<p>Tevékenység: Biztonsági szolgálat</p>
+<p> </p>
 <ol start="3">
-<li><strong><u>Az adatkezel&eacute;s c&eacute;lja &eacute;s elvei</u></strong>
+<li><strong><u>Az adatkezelés célja és elvei</u></strong>
 <ul>
-<li>Az adatkezel&eacute;s c&eacute;lja a L&eacute;tes&iacute;tm&eacute;nybe bel&eacute;pő &eacute;s ott tart&oacute;zkod&oacute; term&eacute;szetes szem&eacute;lyekre vonatkoz&oacute;an az emberi &eacute;let, testi &eacute;ps&eacute;g v&eacute;delme, valamint a vagyonv&eacute;delem biztos&iacute;t&aacute;sa, az illet&eacute;ktelen bel&eacute;p&eacute;s megakad&aacute;lyoz&aacute;sa, ennek c&eacute;lj&aacute;b&oacute;l az &Eacute;rintettek azonos&iacute;t&aacute;sa.</li>
-<li>Az Adatkezelő a Szem&eacute;lyes adatokat a j&oacute;hiszeműs&eacute;g &eacute;s a tisztess&eacute;g &eacute;s &aacute;tl&aacute;that&oacute;s&aacute;g elveinek, valamint a hat&aacute;lyos jogszab&aacute;lyok &eacute;s jelen T&aacute;j&eacute;koztat&oacute;ban rendelkez&eacute;seinek megfelelően kezeli.</li>
-<li>A fenti c&eacute;l el&eacute;r&eacute;s&eacute;hez elengedhetetlen&uuml;l sz&uuml;ks&eacute;ges szem&eacute;lyes adatokat az Adatkezelő az Adatkezelő jogos &eacute;rdek&eacute;re tekintettel, &eacute;s kiz&aacute;r&oacute;lag c&eacute;lhoz k&ouml;t&ouml;tten haszn&aacute;lja fel.</li>
-<li>Az Adatkezelő a szem&eacute;lyes adatokat csak a jelen T&aacute;j&eacute;koztat&oacute;ban, illetve a vonatkoz&oacute; jogszab&aacute;lyokban meghat&aacute;rozott c&eacute;lb&oacute;l kezeli. A kezelt szem&eacute;lyes adatok k&ouml;re ar&aacute;nyban &aacute;ll az adatkezel&eacute;s c&eacute;lj&aacute;val, azon nem terjeszkedhet t&uacute;l.</li>
-<li>Az Adatkezelő az &aacute;ltala kezelt Szem&eacute;lyes adatokat a jelen T&aacute;j&eacute;koztat&oacute;ban meghat&aacute;rozott Adatfeldolgoz&oacute;kon k&iacute;v&uuml;l harmadik f&eacute;lnek &ndash; a k&ouml;telező adatszolg&aacute;ltat&aacute;s eset&eacute;t kiv&eacute;ve &ndash; nem adja &aacute;t.</li>
-<li>Az Adatkezelő bizonyos esetekben &ndash; hivatalos b&iacute;r&oacute;s&aacute;gi, rendőrs&eacute;gi megkeres&eacute;s, jogi elj&aacute;r&aacute;s szerzői-, vagyoni- illetve egy&eacute;b jogs&eacute;rt&eacute;s vagy ezek alapos gyan&uacute;ja miatt az Adatkezelő &eacute;rdekeinek s&eacute;relme, a szolg&aacute;ltat&aacute;s biztos&iacute;t&aacute;s&aacute;nak vesz&eacute;lyeztet&eacute;se stb. &ndash; harmadik szem&eacute;lyek sz&aacute;m&aacute;ra hozz&aacute;f&eacute;rhetőv&eacute; teszi az &Eacute;rintett el&eacute;rhető Szem&eacute;lyes adatait.</li>
+<li>Az adatkezelés célja a Létesítménybe belépő és ott tartózkodó természetes személyekre vonatkozóan az emberi élet, testi épség védelme, valamint a vagyonvédelem biztosítása, az illetéktelen belépés megakadályozása, ennek céljából az Érintettek azonosítása.</li>
+<li>Az Adatkezelő a Személyes adatokat a jóhiszeműség és a tisztesség és átláthatóság elveinek, valamint a hatályos jogszabályok és jelen Tájékoztatóban rendelkezéseinek megfelelően kezeli.</li>
+<li>A fenti cél eléréséhez elengedhetetlenül szükséges személyes adatokat az Adatkezelő az Adatkezelő jogos érdekére tekintettel, és kizárólag célhoz kötötten használja fel.</li>
+<li>Az Adatkezelő a személyes adatokat csak a jelen Tájékoztatóban, illetve a vonatkozó jogszabályokban meghatározott célból kezeli. A kezelt személyes adatok köre arányban áll az adatkezelés céljával, azon nem terjeszkedhet túl.</li>
+<li>Az Adatkezelő az általa kezelt Személyes adatokat a jelen Tájékoztatóban meghatározott Adatfeldolgozókon kívül harmadik félnek – a kötelező adatszolgáltatás esetét kivéve – nem adja át.</li>
+<li>Az Adatkezelő bizonyos esetekben – hivatalos bírósági, rendőrségi megkeresés, jogi eljárás szerzői-, vagyoni- illetve egyéb jogsértés vagy ezek alapos gyanúja miatt az Adatkezelő érdekeinek sérelme, a szolgáltatás biztosításának veszélyeztetése stb. – harmadik személyek számára hozzáférhetővé teszi az Érintett elérhető Személyes adatait.</li>
 </ul>
 </li>
-<li><strong><u>Az adatkezel&eacute;s jogalapja</u></strong></li>
+<li><strong><u>Az adatkezelés jogalapja</u></strong></li>
 </ol>
-<p>Az Adatkezelő a jelen T&aacute;j&eacute;koztat&oacute;ban r&eacute;szletezett Szem&eacute;lyes adatok kezel&eacute;s&eacute;t, t&aacute;rol&aacute;s&aacute;t, r&ouml;gz&iacute;t&eacute;s&eacute;t &eacute;s esetleges tov&aacute;bb&iacute;t&aacute;s&aacute;t a szem&eacute;ly- &eacute;s vagyonv&eacute;delmi, valamint a mag&aacute;nnyomoz&oacute;i tev&eacute;kenys&eacute;g szab&aacute;lyair&oacute;l sz&oacute;l&oacute; 2005. &eacute;vi CXXXIII. t&ouml;rv&eacute;ny 25.&sect; (1)-(2) bekezd&eacute;sei, tov&aacute;bb&aacute; a 26.&sect; (1) a)-c) pontjai szerint v&eacute;gzi, az Adatkezelő jogos &eacute;rdek&eacute;re tekintettel.</p>
-<p>Ezen t&ouml;rv&eacute;nyi felhatalmaz&aacute;sokon t&uacute;l az Adatkezelő az adatkezel&eacute;st az Infotv.-ben meghat&aacute;rozottak tiszteletben tart&aacute;s&aacute;val folytatja.</p>
-<p>&nbsp;</p>
+<p>Az Adatkezelő a jelen Tájékoztatóban részletezett Személyes adatok kezelését, tárolását, rögzítését és esetleges továbbítását a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 25.§ (1)-(2) bekezdései, továbbá a 26.§ (1) a)-c) pontjai szerint végzi, az Adatkezelő jogos érdekére tekintettel.</p>
+<p>Ezen törvényi felhatalmazásokon túl az Adatkezelő az adatkezelést az Infotv.-ben meghatározottak tiszteletben tartásával folytatja.</p>
+<p> </p>
 <ol start="5">
-<li><strong><u>A kezelt adatok k&ouml;re</u></strong></li>
+<li><strong><u>A kezelt adatok köre</u></strong></li>
 </ol>
-<p>Az Adatkezelő az al&aacute;bbi Szem&eacute;lyes adatokat kezeli a L&eacute;tes&iacute;tm&eacute;nybe t&ouml;rt&eacute;nő bel&eacute;ptet&eacute;s sor&aacute;n:</p>
-<p>A vend&eacute;g neve &eacute;s azonos&iacute;t&oacute; igazolv&aacute;ny&aacute;nak sz&aacute;ma.</p>
-<p>&nbsp;</p>
+<p>Az Adatkezelő az alábbi Személyes adatokat kezeli a Létesítménybe történő beléptetés során:</p>
+<p>A vendég neve és azonosító igazolványának száma.</p>
+<p> </p>
 <ol start="6">
-<li><strong><u>Az adatkezel&eacute;s időtartama</u></strong></li>
+<li><strong><u>Az adatkezelés időtartama</u></strong></li>
 </ol>
-<p>Az Adatkezelő azon &Eacute;rintettek eset&eacute;ben, akik a L&eacute;tes&iacute;tm&eacute;nybe rendszeresen bel&eacute;pnek, a bel&eacute;p&eacute;s rendszeress&eacute;g&eacute;nek fenn&aacute;ll&aacute;sa sor&aacute;n t&aacute;rolja a Szem&eacute;lyes adatokat, ezt k&ouml;vetően azokat halad&eacute;ktalanul t&ouml;rli.</p>
-<p>Az egyedi bel&eacute;p&eacute;sek eset&eacute;n az Adatkezelő a Szem&eacute;lyes adatokat a bel&eacute;p&eacute;stől sz&aacute;m&iacute;tott 30 napig t&aacute;rolja, ezt k&ouml;vetően t&ouml;rli.</p>
-<p>Amennyiben b&iacute;r&oacute;s&aacute;g vagy hat&oacute;s&aacute;g jogerősen elrendeli a szem&eacute;lyes adat t&ouml;rl&eacute;s&eacute;t, a t&ouml;rl&eacute;st az Adatkezelő v&eacute;grehajtja. T&ouml;rl&eacute;s helyett az Adatkezelő &ndash; az &Eacute;rintett t&aacute;j&eacute;koztat&aacute;sa mellett &ndash; korl&aacute;tozza a Szem&eacute;lyes adat felhaszn&aacute;l&aacute;s&aacute;t, ha az &Eacute;rintett ezt k&eacute;ri, vagy ha a rendelkez&eacute;s&eacute;re &aacute;ll&oacute; inform&aacute;ci&oacute;k alapj&aacute;n felt&eacute;telezhető, hogy a t&ouml;rl&eacute;s s&eacute;rten&eacute; az &Eacute;rintett jogos &eacute;rdek&eacute;t. A Szem&eacute;lyes adatot az Adatkezelő mindaddig nem t&ouml;rli, ameddig fenn&aacute;ll az az adatkezel&eacute;si c&eacute;l, amely a Szem&eacute;lyes adat t&ouml;rl&eacute;s&eacute;t kiz&aacute;rta.</p>
-<p>&nbsp;</p>
+<p>Az Adatkezelő azon Érintettek esetében, akik a Létesítménybe rendszeresen belépnek, a belépés rendszerességének fennállása során tárolja a Személyes adatokat, ezt követően azokat haladéktalanul törli.</p>
+<p>Az egyedi belépések esetén az Adatkezelő a Személyes adatokat a belépéstől számított 30 napig tárolja, ezt követően törli.</p>
+<p>Amennyiben bíróság vagy hatóság jogerősen elrendeli a személyes adat törlését, a törlést az Adatkezelő végrehajtja. Törlés helyett az Adatkezelő – az Érintett tájékoztatása mellett – korlátozza a Személyes adat felhasználását, ha az Érintett ezt kéri, vagy ha a rendelkezésére álló információk alapján feltételezhető, hogy a törlés sértené az Érintett jogos érdekét. A Személyes adatot az Adatkezelő mindaddig nem törli, ameddig fennáll az az adatkezelési cél, amely a Személyes adat törlését kizárta.</p>
+<p> </p>
 <ol start="7">
-<li><strong><u>Adatbiztons&aacute;gi int&eacute;zked&eacute;sek</u></strong></li>
+<li><strong><u>Adatbiztonsági intézkedések</u></strong></li>
 </ol>
-<p>Az Adatkezelő gondoskodik a kezelt adatok biztons&aacute;g&aacute;r&oacute;l, megteszi azokat a technikai &eacute;s szervez&eacute;si int&eacute;zked&eacute;seket, amelyek az adat- &eacute;s titokv&eacute;delmi szab&aacute;lyok &eacute;rv&eacute;nyre juttat&aacute;s&aacute;hoz sz&uuml;ks&eacute;gesek, &iacute;gy k&uuml;l&ouml;n&ouml;sen meg&oacute;vja a jogosulatlan hozz&aacute;f&eacute;r&eacute;s, megv&aacute;ltoztat&aacute;s, tov&aacute;bb&iacute;t&aacute;s, nyilv&aacute;noss&aacute;gra hozatal, t&ouml;rl&eacute;s vagy megsemmis&iacute;t&eacute;s, valamint a v&eacute;letlen megsemmis&uuml;l&eacute;s &eacute;s s&eacute;r&uuml;l&eacute;s, tov&aacute;bb&aacute; az alkalmazott technika megv&aacute;ltoz&aacute;s&aacute;b&oacute;l fakad&oacute; hozz&aacute;f&eacute;rhetetlenn&eacute; v&aacute;l&aacute;s ellen.</p>
-<p>Az Adatkezelő az &aacute;ltala kezelt adatokat az ir&aacute;nyad&oacute; jogszab&aacute;lyoknak megfelelően tartja nyilv&aacute;n, biztos&iacute;tva, hogy az adatokat csak azok a munkav&aacute;llal&oacute;k, &eacute;s egy&eacute;b az Adatkezelő &eacute;rdekk&ouml;r&eacute;ben elj&aacute;r&oacute; szem&eacute;lyek (adatfeldolgoz&oacute;k) ismerhess&eacute;k meg, akiknek erre munkak&ouml;r&uuml;k, feladatuk ell&aacute;t&aacute;sa &eacute;rdek&eacute;ben sz&uuml;ks&eacute;g&uuml;k van.</p>
-<p>&nbsp;</p>
+<p>Az Adatkezelő gondoskodik a kezelt adatok biztonságáról, megteszi azokat a technikai és szervezési intézkedéseket, amelyek az adat- és titokvédelmi szabályok érvényre juttatásához szükségesek, így különösen megóvja a jogosulatlan hozzáférés, megváltoztatás, továbbítás, nyilvánosságra hozatal, törlés vagy megsemmisítés, valamint a véletlen megsemmisülés és sérülés, továbbá az alkalmazott technika megváltozásából fakadó hozzáférhetetlenné válás ellen.</p>
+<p>Az Adatkezelő az általa kezelt adatokat az irányadó jogszabályoknak megfelelően tartja nyilván, biztosítva, hogy az adatokat csak azok a munkavállalók, és egyéb az Adatkezelő érdekkörében eljáró személyek (adatfeldolgozók) ismerhessék meg, akiknek erre munkakörük, feladatuk ellátása érdekében szükségük van.</p>
+<p> </p>
 <ol start="8">
-<li><strong><u>Az &Eacute;rintettek jogai &eacute;s jog&eacute;rv&eacute;nyes&iacute;t&eacute;s</u></strong></li>
+<li><strong><u>Az Érintettek jogai és jogérvényesítés</u></strong></li>
 </ol>
-<p>Az &Eacute;rintett b&aacute;rmikor ingyenesen k&eacute;relmezheti az Adatkezelőn&eacute;l a t&aacute;j&eacute;koztat&aacute;st szem&eacute;lyes adatai kezel&eacute;s&eacute;ről (&iacute;gy t&ouml;bbek k&ouml;z&ouml;tt az Adatkezelő &aacute;ltal kezelt adatair&oacute;l, azok forr&aacute;s&aacute;r&oacute;l, az adatkezel&eacute;s c&eacute;lj&aacute;r&oacute;l, jogalapj&aacute;r&oacute;l, időtartam&aacute;r&oacute;l, az Adatfeldolgoz&oacute; nev&eacute;ről, c&iacute;m&eacute;ről &eacute;s az adatkezel&eacute;ssel &ouml;sszef&uuml;ggő tev&eacute;kenys&eacute;g&eacute;ről), b&aacute;rmikor k&eacute;rheti a szem&eacute;lyes adatainak helyesb&iacute;t&eacute;s&eacute;t, valamint az adatkezel&eacute;s korl&aacute;toz&aacute;s&aacute;t, amely azonban nem &eacute;rinti a kor&aacute;bbi adatkezel&eacute;s jogszerűs&eacute;g&eacute;t. Az &Eacute;rintett az Infotv.-ben meghat&aacute;rozottak szerint tiltakozhat szem&eacute;lyes adatai kezel&eacute;se ellen. Az &Eacute;rintett t&aacute;j&eacute;koztat&aacute;s, helyesb&iacute;t&eacute;s ir&aacute;nti k&eacute;relm&eacute;t előterjesztheti &iacute;r&aacute;sban, az Adatkezelő sz&eacute;khely&eacute;re c&iacute;mzett lev&eacute;lben, vagy az Adatkezelőnek az hu-vevoszolgalat@schneider-electric.com c&iacute;mre k&uuml;ld&ouml;tt e-mailben.</p>
-<p>Az &Eacute;rintett a szem&eacute;lyes adatai kezel&eacute;s&eacute;vel kapcsolatban b&aacute;rmikor megkeres&eacute;ssel fordulhat a Nemzeti Adatv&eacute;delmi Inform&aacute;ci&oacute;szabads&aacute;g Hat&oacute;s&aacute;ghoz (1530 Budapest, Pf.: 5., vagy 1125 Budapest, Szil&aacute;gyi Erzs&eacute;bet fasor 22/c, tel.: +36 (1) 391-1400, fax: +36 (1) 391-1410, e-mail: <a href="mailto:ugyfelszolgalat@naih.hu">ugyfelszolgalat@naih.hu</a>, <a href="http://www.naih.hu">www.naih.hu</a>), vagy k&ouml;zvetlen&uuml;l a b&iacute;r&oacute;s&aacute;ghoz fordulhat. A per elb&iacute;r&aacute;l&aacute;sa a t&ouml;rv&eacute;nysz&eacute;k hat&aacute;sk&ouml;r&eacute;be tartozik. A per &ndash; az &eacute;rintett v&aacute;laszt&aacute;sa szerint &ndash; az &eacute;rintett lak&oacute;helye vagy tart&oacute;zkod&aacute;si helye szerinti t&ouml;rv&eacute;nysz&eacute;k előtt is megind&iacute;that&oacute;. Az Adatkezelő k&eacute;r&eacute;sre az &Eacute;rintettet t&aacute;j&eacute;koztatja a jogorvoslat lehetős&eacute;g&eacute;ről &eacute;s eszk&ouml;zeiről.</p>
+<p>Az Érintett bármikor ingyenesen kérelmezheti az Adatkezelőnél a tájékoztatást személyes adatai kezeléséről (így többek között az Adatkezelő által kezelt adatairól, azok forrásáról, az adatkezelés céljáról, jogalapjáról, időtartamáról, az Adatfeldolgozó nevéről, címéről és az adatkezeléssel összefüggő tevékenységéről), bármikor kérheti a személyes adatainak helyesbítését, valamint az adatkezelés korlátozását, amely azonban nem érinti a korábbi adatkezelés jogszerűségét. Az Érintett az Infotv.-ben meghatározottak szerint tiltakozhat személyes adatai kezelése ellen. Az Érintett tájékoztatás, helyesbítés iránti kérelmét előterjesztheti írásban, az Adatkezelő székhelyére címzett levélben, vagy az Adatkezelőnek az hu-vevoszolgalat@schneider-electric.com címre küldött e-mailben.</p>
+<p>Az Érintett a személyes adatai kezelésével kapcsolatban bármikor megkereséssel fordulhat a Nemzeti Adatvédelmi Információszabadság Hatósághoz (1530 Budapest, Pf.: 5., vagy 1125 Budapest, Szilágyi Erzsébet fasor 22/c, tel.: +36 (1) 391-1400, fax: +36 (1) 391-1410, e-mail: <a href="mailto:ugyfelszolgalat@naih.hu">ugyfelszolgalat@naih.hu</a>, <a href="http://www.naih.hu">www.naih.hu</a>), vagy közvetlenül a bírósághoz fordulhat. A per elbírálása a törvényszék hatáskörébe tartozik. A per – az érintett választása szerint – az érintett lakóhelye vagy tartózkodási helye szerinti törvényszék előtt is megindítható. Az Adatkezelő kérésre az Érintettet tájékoztatja a jogorvoslat lehetőségéről és eszközeiről.</p>
     </div>
 </div>
 
