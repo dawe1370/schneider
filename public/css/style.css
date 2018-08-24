@@ -75,9 +75,20 @@ body {
     padding:0;
   }
   
-  .modal-lg {
+  .modal-szerv-abra {
     max-width: 95% !important;
   }
+
+
+  .modal-gdpr {
+    max-width: 80% !important;
+  }
+
+
+
+
+
+
 
   /*Header*/
 
@@ -145,6 +156,46 @@ body {
   visibility: hidden;
   margin-top: 0.2rem;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   @media (max-width: 575px) {
     .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
