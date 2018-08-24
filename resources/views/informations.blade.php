@@ -59,7 +59,7 @@
                     <div class="card">
                         <img class="card-img-top" src="{{ asset('images\parkolás.jpg') }}"  alt="Card image cap">
                         <div class="card-body">
-                            <p class="card-text">Reverse Parking /<br>Tolatva Parkolás</p>
+                            <p class="card-text" style="font-size: 12px;">Reverse Parking /<br>Tolatva Parkolás</p>
                         </div>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                     <div class="card">
                         <img class="card-img-top" src="{{ asset('\images\safety_jacket.png') }}" alt="Card image cap">
                         <div class="card-body">
-                            <p class="card-text">Safety Jacket And Safety Shoes /<br>Narancssárga Mellény És Munkavédelmi Cipő</p>
+                            <p class="card-text" style="font-size: 12px;">Safety Jacket And Safety Shoes /<br>Narancssárga Mellény És Munkavédelmi Cipő</p>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                     <div class="card">
                         <img class="card-img-top" src="{{ asset('images\photosnot_allowed.png') }}" alt="Card image cap">
                         <div class="card-body">
-                            <p class="card-text">Using camera and video is not allowed!/<br>Fényképezőgép és kamera használata tilos!</p>
+                            <p class="card-text" style="font-size: 12px;">Using camera and video is not allowed!/<br>Fényképezőgép és kamera használata tilos!</p>
                         </div>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                     <div class="card">
                         <img class="card-img-top" src="{{ asset('images\dohanyzo.png') }}" alt="Card image cap">
                         <div class="card-body">
-                            <p class="card-text">Designated Area For Smoking /<br>Dohányzásra kijelölt hely</p>
+                            <p class="card-text" style="font-size: 12px;">Designated Area For Smoking /<br>Dohányzásra kijelölt hely</p>
                         </div>
                     </div>
                 </div>
@@ -106,7 +106,7 @@
                     <div class="card">
                         <img class="card-img-top" src="{{ asset('images\gyul_hely.png') }}" alt="Card image cap">
                         <div class="card-body">
-                            <p class="card-text">Emergency Evacuation Meeting Place /<br>Gyülekező Hely</p>
+                            <p class="card-text" style="font-size: 12px;">Emergency Evacuation Meeting Place /<br>Gyülekező Hely</p>
                         </div>
                     </div>
                 </div>
