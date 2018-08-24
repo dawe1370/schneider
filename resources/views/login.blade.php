@@ -7,7 +7,7 @@
                 <div class="card">
                     <img class="card-img-top" src="{{ asset('images/orig_675454.jpg') }}" alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text" style="font-size: 13px;">Schneider Zala MEB 4.46 001 01 G 1/3</p>
                     </div>
                 </div>
             </div>
@@ -15,9 +15,8 @@
         <div class="col-xs-12 col-md-3">
             <div class="form-group">
                 <div class="card">
-                    <img class="card-img-top" src="{{ asset('images/orig_675454.jpg') }}" alt="Card image cap">
+                    <img class="card-img-top" src="{{ asset('images/segelyhivoszamok.jpg') }}" alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         <button type="button" class="btn btn-block btn-success" data-toggle="modal" data-target="#exampleModal">
                             Szervezeti Ábra / <br> Organization Chart
                         </button>
@@ -98,7 +97,7 @@
       </div>
       <div class="modal-body">
         <div class="containe">
-            <img src="{{ asset('images/orig_675454.jpg') }}" id="imagepreview" style="width: 770px; height: 550px;" >
+            <img src="{{ asset('images/szerv_abra.png') }}" id="imagepreview" style="width: 1230px;">
         </div>
         
       </div>

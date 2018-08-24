@@ -67,7 +67,17 @@ body {
   .navbar .navbar-link:hover {
     color: #f2f2f2;
   }
+
+  #logo {
+    width: 110px;
+    height:40px;
+    margin:0;
+    padding:0;
+  }
   
+  .modal-lg {
+    max-width: 95% !important;
+  }
 
   /*Header*/
 
@@ -80,18 +90,6 @@ body {
     margin: 20px;
 }
 
-
-#first {
-  margin-top: 5rem !important;
-}
-
-#login {
-  margin-top: 5rem !important;
-}
-
-#logout{
-  margin-top: 3rem !important;
-}
 
 #next {
   margin-left: 0.5rem;
