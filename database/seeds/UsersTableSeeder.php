@@ -143,5 +143,9 @@ class UsersTableSeeder extends Seeder
         User::create([
             'name' => 'HORVÁTH DÁVID'
         ]);
+
+        User::create([
+            'name' => 'ZUGGÓ NORBERT'
+        ]);
     }
 }
