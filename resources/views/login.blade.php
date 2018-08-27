@@ -5,13 +5,33 @@
         <div class="col-xs-12 col-md-3">
             <div class="form-group">
                 <div class="card">
-                    <img class="card-img-top" src="{{ asset('images/orig_675454.jpg') }}" alt="Card image cap">
+                    <img class="card-img-top" src="{{ asset('images/els_nyujt_kep_tuz.jpg') }}" alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="font-size: 13px;">Schneider Zala MEB 4.46 001 01 G 1/3</p>
+                        <p class="card-text text-center" style="font-size: 13px;">Contact People In Accident
+                        <img class="segely" src="{{ asset('images/szakkepz_elsoseg_nyuljt.png') }}" alt="segely">
+                         <br>Or Fire
+                         <img class="segely" src="{{ asset('images/kepzett_tuz_kesz_hasz.png') }}" alt="tuz"><br> Tűz
+                         <img class="segely" src="{{ asset('images/kepzett_tuz_kesz_hasz.png') }}" alt="tuz">
+                         És Baleset 
+                         <img class="segely" src="{{ asset('images/szakkepz_elsoseg_nyuljt.png') }}" alt="segely">
+                         Esetén Értesítendő</p>
                     </div>
                 </div>
             </div>
+            <div class="form-group">
+                <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Balogh Erika</h5>
+                    <h6 class="card-subtitle text-center">+36 (30) 277-3598</h6>
+                    <p class="card-text">
+                    <p class="card-text text-center" style="font-size: 13px;">Contact Person In Case Of Any Problem Or Accident /<br> Baleset Vagy Probléma Esetén Értesítendő</p><hr><p style="font-size: 13px;" class="text-center">Schneider Zala MEB 4.46 001 01 G 1/3</p>
+                    </p>
+                </div>
+                </div>
+
+            </div>
         </div>
+
         <div class="col-xs-12 col-md-3">
             <div class="form-group">
                 <div class="card">
@@ -24,6 +44,7 @@
                 </div>
             </div>
         </div>
+        
         <div class="col-xs-12 col-md-6">
             <div class="card">
                 <h5 class="card-header text-center">Bejelentkezés / Log In</h5>
