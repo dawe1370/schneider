@@ -225,6 +225,7 @@
         </button>
       </div>
       <div class="modal-body">
+          
         <div class="containe">
             <p>Privacy Statement in English</p>
         </div>
