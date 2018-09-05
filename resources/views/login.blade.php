@@ -5,7 +5,7 @@
         <div class="col-xs-12 col-md-3">
             <div class="form-group">
                 <div class="card">
-                    <img class="card-img-top" src="{{ asset('images/els_nyujt_kep_tuz.jpg') }}" alt="Card image cap">
+                    <img class="card-img-top" src="{{ asset('images/IMG_6150.jpg') }}" alt="Card image cap">
                     <div class="card-body">
                         <p class="card-text text-center" style="font-size: 13px;">Contact People In Accident
                         <img class="segely" src="{{ asset('images/szakkepz_elsoseg_nyuljt.png') }}" alt="segely">
@@ -72,7 +72,7 @@
                         </div>
                         <p class="card-text">Látogatói Kártya Száma* / Visitor Card Number*</p>
                         <div class="form-group">
-                            <input type="password" name="pid" value="{{ old('pid') }}" class="form-control" placeholder="Látogatói Kártya Száma* / Visitor Card Number" aria-label="Recipient's PID" maxlength="255">
+                            <input oninput="this.value = this.value.toUpperCase()" type="text" name="pid" value="{{ old('pid') }}" class="form-control" placeholder="Látogatói Kártya Száma* / Visitor Card Number" aria-label="Recipient's PID" maxlength="255">
                         </div>
                         <p class="card-text">Cég / Company</p>
                         <div class="input-group mb-3">
@@ -127,7 +127,7 @@
       </div>
       <div class="modal-body">
         <div class="containe">
-            <img src="{{ asset('images/szerv_abra.png') }}" id="imagepreview" style="width: 1230px;">
+            <img src="{{ asset('images/organization_chart.svg') }}" id="imagepreview" style="width: 1230px;">
         </div>
         
       </div>

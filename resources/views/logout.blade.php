@@ -8,7 +8,7 @@
                     {{ csrf_field() }}
                     <input type="hidden" name="action" value="checkout" />
                     <div class="form-group">
-                        <input type="password" name="pid" value="{{ old('pid') }}" class="form-control" placeholder="Látogatói Kártya Száma* / Visitor Card Number" aria-label="Recipient's PID" maxlength="255">
+                        <input oninput="this.value = this.value.toUpperCase()" type="text" name="pid" value="{{ old('pid') }}" class="form-control" placeholder="Látogatói Kártya Száma* / Visitor Card Number" aria-label="Recipient's PID" maxlength="255">
                     </div>
 
                     <div class="form-row text-center">
